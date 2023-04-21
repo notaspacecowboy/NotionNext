@@ -158,7 +158,7 @@ const BLOG = {
     {
       name: 'bebop',
       artist: 'bsd.u',
-      url: 'https://soundcloud.com/connorneder/bsdu-bebop',
+      url: 'https://music.163.com/song/media/outer/url?id=28691115.mp3',
       cover:
         'https://raw.githubusercontent.com/notaspacecowboy/picgo-base/master/20230421123924.png'
     }
