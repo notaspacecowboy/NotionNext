@@ -16,7 +16,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'Zack Yang', 
   BIO: process.env.NEXT_PUBLIC_BIO || "Just a humble bounty hunter🥷, ma'am", 
-  LINK: process.env.NEXT_PUBLIC_LINK || 'zackyang.me',
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://zackyang.blog',
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Notion, 博客, blog, cpp, computer graphics', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || '', // 邮箱地址 
